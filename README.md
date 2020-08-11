@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### Hi, I'm Buddhi Kavindra 🧑‍💻; I'm Blogger and a Technology Evangelist from Sri Lanka 👋
+### Hi, I'm Buddhi Kavindra 🧑‍💻; I'm a Blogger and a Technology Evangelist from Sri Lanka 👋
 
-- 🔭 I’m currently working as Front-end Developer 🧑🏻‍💻 and and a ML Engineer!
+- 🔭 I’m currently working as a Front-end Developer 🧑🏻‍💻 and and a ML Engineer!
 - 🌱 I’m currently learning everything  🤣
 - 👯 I’m looking to collaborate with motives👨🏻‍🚀 👩🏻‍🚀 and Knowldge Seekers🧑🏻‍🔬 👨🏻‍🔬
 - 🥅 2020 Goals: Contribute more to Open Source projects👬🏻 👭🏻 👫🏻

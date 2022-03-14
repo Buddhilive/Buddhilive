@@ -31,7 +31,7 @@
 </br>
 </br>
 
-![Buddhi Kavindra's github stats](https://github-readme-stats.vercel.app/api?username=Buddhilive&show_icons=true&theme=radical&count_private=true&hide=stars)
+![Buddhi Kavindra's github stats](https://github-readme-stats.vercel.app/api?username=Buddhilive&show_icons=true&theme=radical&count_private=true)
 
 
 

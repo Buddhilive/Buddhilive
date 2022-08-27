@@ -32,7 +32,7 @@
 
 ![Buddhi Kavindra's github stats](https://github-readme-stats.vercel.app/api?username=Buddhilive&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhilive)](https://github.com/Buddhilive/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhilive&layout=compact)](https://github.com/Buddhilive/github-readme-stats)
 
 ![Buddhi Kavindra's github trophies](https://github-profile-trophy.vercel.app/?username=buddhilive)
 </br>

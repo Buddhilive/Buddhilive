@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Solias Components](https://github.com/Buddhilive/solias)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning** and **UX**
 
 - 📝 I regularly write articles on [https://www.buddhilive.com/](https://www.buddhilive.com/)
 

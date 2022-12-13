@@ -5,7 +5,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhilive&" alt="buddhilive" />
 </p>
 
-- 🔭 I’m currently working on [Solias Components](https://github.com/Buddhilive/solias)
+- 🔭 I’m currently working on [Project Berkelium](https://github.com/BerkeliumLabs/berkelium-dev-kit)
 
 - 🌱 I’m currently learning **Machine Learning** and **UX**
 

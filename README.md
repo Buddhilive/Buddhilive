@@ -8,8 +8,8 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Buddhilive&show_icons=true&theme=radical&count_private=true" alt="buddhilive" />
 </p>
-
-![Buddhi Kavindra's github stats](https://github-readme-stats.vercel.app/api?username=Buddhilive&show_icons=true&theme=radical&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhilive&layout=compact&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhilive&layout=compact&langs_count=10)
+</br>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhilive&layout=compact&langs_count=10" alt="buddhilive" />
+</p>
 

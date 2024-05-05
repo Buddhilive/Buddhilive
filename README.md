@@ -8,7 +8,7 @@
 </p>
 </br>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Buddhilive&show_icons=true&theme=radical&count_private=true" alt="buddhilive" />
+  <img src="https://myreadme.vercel.app/api/embed/buddhilive?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="buddhilive" />
 </p>
 </br>
 <p align="center">

@@ -8,10 +8,6 @@
 </p>
 </br>
 <p align="center">
-  <img src="https://myreadme.vercel.app/api/embed/buddhilive?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="buddhilive" />
-</p>
-</br>
-<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhilive&layout=compact&langs_count=10" alt="buddhilive" />
 </p>
 

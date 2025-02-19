@@ -5,6 +5,7 @@
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhilive&" alt="buddhilive" />
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=buddhilive)](https://git.io/streak-stats)
 </p>
 </br>
 <p align="center">

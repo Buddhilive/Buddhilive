@@ -4,8 +4,7 @@
   <img align="center" alt="Buddhi Kavindra" | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=buddhilive&style=plastic" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhilive&" alt="buddhilive" />
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=buddhilive)](https://git.io/streak-stats)
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhilive" alt="buddhilive" />
 </p>
 </br>
 <p align="center">

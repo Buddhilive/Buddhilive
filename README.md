@@ -8,7 +8,7 @@
 </p>
 </br>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhilive&layout=compact&langs_count=10" alt="buddhilive" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhilive&layout=compact&langs_count=10&hide=jupyter+notebook" alt="buddhilive" />
 </p>
 <hr />
 <h3>My Tech Stack</h3>

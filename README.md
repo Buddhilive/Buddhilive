@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Angular-DD1100?style=flat&logo=angular&logoColor=%23fff&labelColor=%23DD1100&color=%23DD1100">
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff"> 
-  <img src="https://img.shields.io/badge/Angular-DD1100?style=flat&logo=angular&logoColor=%23fff&labelColor=%23DD1100&color=%23DD1100">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=%23fff&labelColor=%23CC6699&color=%23CC6699">
   <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"> 
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000"> 
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 

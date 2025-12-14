@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Buddhi</h1>
 <h3 align="center">AI Alchemist, Researcher, Web Artisan and Tech Blogger from Sri Lanka</h3>
 <hr />
-<a href="https://githubstats.buddhilive.com/" target="_blank">Check my live stats</a>
+<h3 align="center"><a href="https://githubstats.buddhilive.com/" target="_blank">Check My Live Stats</a></h3>
 <hr />
 My mission is to deliver powerful, cutting-edge AI tools with an uncompromising focus on user privacy and performance.
 

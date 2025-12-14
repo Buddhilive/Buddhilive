@@ -1,8 +1,22 @@
 <h1 align="center">Hi 👋, I'm Buddhi</h1>
-<h3 align="center">A passionate Web Artisan from Sri Lanka</h3>
-<p align="center">
-  <img align="center" alt="Buddhi Kavindra" | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=buddhilive&style=plastic" />
-</p>
+<h3 align="center">AI Alchemist, Researcher, Web Artisan and Tech Blogger from Sri Lanka</h3>
+<hr />
+<a href="https://githubstats.buddhilive.com/" target="_blank">Check my live stats</a>
+<hr />
+My mission is to deliver powerful, cutting-edge AI tools with an uncompromising focus on user privacy and performance.
+
+### 🛡️ Featured Project: **Buddhi AI**
+
+I am the Founder and lead developer behind **Buddhi AI**, a revolutionary, privacy-first AI suite that runs models **100% client-side**—meaning your data **never leaves your device**.
+
+Buddhi AI is built to make intelligence inherently secure and accessible, addressing the main privacy risks of traditional server-based AI.
+
+#### **Key Capabilities of Buddhi AI:**
+
+* **Private In-Browser RAG:** Securely interact with and query confidential PDF text documents locally.
+* **Multimodal Processing:** Image-to-Text analysis powered by the Google Gemma 3n E2B model.
+* **Unified Chat:** Sophisticated conversation, summarization, and writing assistance, all on-device.
+<hr />
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhilive&" alt="buddhilive" />
 </p>
